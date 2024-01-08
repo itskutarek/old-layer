@@ -4,7 +4,8 @@ How to use this script:
 1. Go to https://discord.com/app
 2. Press `Ctrl + Shift + I` to open DevTools
 3. Go to the `Console` tab
-4. Paste the following code and hit enter:
+4. Type in console: `allow pasting`
+5. Paste the following code and hit enter:
 
 ```js
 let wpRequire;
